@@ -1,6 +1,4 @@
-#  IMPLEMENTASI DAN PEMBAHASAN
 
-Bab ini membahas implementasi sistem *Keyword Spotting* menggunakan ESP32 yang dibagi menjadi tiga tahap utama: Akuisisi Data, Pelatihan Model, dan Penerapan (Deployment).
 
 ##  Tahap 1: Akuisisi Data (Data Acquisition)
 
