@@ -118,7 +118,6 @@ models = {
 # Output: "Akurasi terbaik: Random Forest (Akurasi Test: 95.xx%)"
 ```
 
-**(Masukkan Gambar Confusion Matrix dan Grafik Perbandingan Akurasi di sini pada Laporan)**
 
 ### Konversi Model (Porting)
 Agar model dapat berjalan di mikrokontroler tanpa sistem operasi (*Bare Metal*), model Python dikonversi menjadi kode C++ murni (array dan logika `if-else`).
